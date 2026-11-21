@@ -1,0 +1,354 @@
+# Built-in misspellings. Format:  correct: wrong1, wrong2, wrong3
+# When the correct word shows up, Handwritten may type one of the wrong versions, then fix it.
+# Add your own! Lines starting with # are ignored.
+
+# --- Everyday fast-typing slips ---
+the: teh, hte, th, tthe, thw
+and: adn, nad, an, andd, amd
+that: taht, htat, tht, thta, thar
+with: wiht, whit, wtih, witht, iwth
+have: ahve, hvae, haev, hav, ahev
+this: tihs, thsi, htis, ths, thid
+from: form, fomr, frmo, fro
+they: tehy, thye, htey, thy, theyy
+what: waht, hwat, whta, wat, whay
+there: tehre, thre, ther, theer, threr
+their: thier, theri, tehir, ther
+would: woudl, wuold, woud, wold, owuld
+about: abotu, baout, abuot, aobut, abut
+which: whcih, wich, hwich, whihc, whihc
+when: wehn, whne, hwen, wen
+your: yuor, yoru, yur, oyur
+you: yuo, oyu, yu, yoi
+just: jsut, juts, jst, jusst
+like: liek, lkie, ilke, lik
+know: konw, knwo, kno, nkow
+because: becuase, beacuse, becasue, becaus, bcause
+people: poeple, peopel, pepole, peple, poepl
+think: thikn, tihnk, thnik, thinl
+could: coudl, cuold, coud, cold
+should: shoudl, shuold, shoud, sholud
+other: otehr, ohter, othr, toher
+these: thees, tehse, thsee, thse
+those: thsoe, tohse, thos, htose
+some: soem, smoe, som, osme
+time: tiem, itme, tme, timw
+been: bene, beeen, ben, eben
+were: wre, weer, ewre, wer
+also: aslo, alos, laso, als
+then: tehn, thne, hten
+than: tahn, thna, htan, tan
+into: inot, itno, nito
+only: onyl, olny, noly, onlu
+over: oevr, ovre, voer, ove
+very: vrey, veyr, evry, verry
+even: eevn, evne, eve
+make: amke, mkae, maek, mak
+take: tkae, taek, atke
+more: mroe, moer, omre
+much: mcuh, muhc, mch
+where: wehre, whre, hwere, wheer
+after: afetr, aftre, atfer, afer
+before: befoer, beofre, befor, bfore
+through: thorugh, throught, throuhg, trough, thru
+thought: thoguht, thougth, thougt, though
+though: thoguh, tho, thouhg, thuogh
+something: somethign, soemthing, somthing, smething
+anything: anythign, anyting, anythin, anyhting
+everything: everythign, evrything, everyting, eveything
+nothing: nothign, nothin, notihng, noting
+really: realy, relaly, reallly, raelly
+actually: actualy, acutally, actaully, actuallly
+probably: probaly, probabaly, porbably, probalby
+maybe: mabye, maybee, mybe
+going: goign, giong, goin, gonig
+doing: doign, diong, doin
+being: beign, bieng, bein
+getting: geting, gettign, gettin
+want: wnat, wnt, watn
+need: nede, ened, ned
+said: siad, sadi, aid
+again: agian, agin, agan
+around: aroudn, arond, aroud, arund
+always: alwasy, alway, allways, alwyas
+little: littel, litle, lttle
+still: stil, stll, sitll
+might: migth, mihgt, mght
+every: evrey, evry, eveyr
+first: frist, fisrt, firts, frst
+great: grate, graet, gerat, grat
+world: wrold, wolrd, wordl
+school: shcool, scohol, schol, skool
+question: quesiton, qeustion, questoin, questin
+answer: asnwer, anwser, answr
+different: diffrent, differnt, diferent, differant
+important: improtant, importnat, importent, imporant
+example: exmaple, exapmle, examlpe, exampel
+information: infromation, informaiton, infomation, informtion
+government: goverment, govenment, governmnet, govermnent
+problem: probelm, porblem, problme, proble
+because: becuase, beacuse, becasue
+together: togehter, togther, tgoether, toghether
+another: anohter, antoher, anothr, nother
+without: wihtout, withotu, witout, withuot
+between: bewteen, betwen, betweeen, beteen
+however: howver, hoewver, howeer, howevr
+something: somehting, soemthing
+student: studnet, sutdent, stuent, studetn
+teacher: teahcer, techer, teacehr
+homework: homwork, homewrok, hoemwork
+because: bc, becaues
+remember: rember, remmeber, remeber, rmember
+understand: undrestand, understnad, udnerstand, understad
+sentence: sentance, sentnce, setnence
+paragraph: pargraph, paragrpah, paragaph
+history: histroy, hisotry, histry
+english: enlgish, engilsh, englsh
+science: sceince, sciene, scince
+because: beause
+
+# --- Classic misspellings ---
+accommodate: accomodate, acommodate, accomadate
+accommodation: accomodation, acommodation
+achieve: acheive, achive
+achievement: acheivement, achievment
+acknowledge: acknowlege, aknowledge
+acquaintance: acquaintence, aquaintance
+acquire: aquire, acquier
+across: accross, acros
+actually: actully
+address: adress, addres
+advertisement: advertisment
+aggressive: agressive, aggresive
+amateur: amatuer, amature
+annually: anually
+apparent: apparant, aparent, apparrent
+apparently: apparantly, aparently
+appearance: appearence, apearance
+argument: arguement, arguemnt
+assassination: assasination
+atheist: athiest
+awful: awfull, aweful
+basically: basicly, basicaly
+beautiful: beutiful, beatiful, beautifull, beautful
+beginning: begining, beggining, beginnig
+believe: beleive, belive, beleve
+believed: beleived, belived
+business: buisness, busness, bussiness
+calendar: calender, calandar
+category: catagory, categroy
+cemetery: cemetary, cematery
+changeable: changable
+character: charachter, charecter, caracter
+chief: cheif
+collectible: collectable
+colleague: collegue, coleague
+column: colum, collumn
+coming: comming
+committed: commited, comitted
+committee: commitee, comittee
+completely: completly, compleetly
+conscience: concience, consience
+conscious: concious, consious
+consensus: concensus
+convenience: convienience, conveniance
+correspondence: correspondance
+criticize: critisize, criticise
+curiosity: curiousity
+definitely: definately, definitly, defiantly, definatly
+describe: discribe, desribe
+description: discription, descripton
+desperate: desparate, desprate
+develop: develope, devlop
+development: developement, devlopment
+difference: diffrence, differance
+dilemma: dilema, dillema
+disappear: dissapear, disapear
+disappoint: dissapoint, disapoint
+discipline: disipline, dicipline
+drunkenness: drunkeness
+embarrass: embarass, embarras
+embarrassed: embarassed, embarrased
+environment: enviroment, enviornment, environmnet
+equipment: equipement, equiptment
+especially: especialy, expecially, especally
+exaggerate: exagerate, exxagerate
+excellent: excelent, exellent
+exercise: excercise, exersise
+existence: existance, existense
+experience: experiance, expereince, experince
+explanation: explaination, explenation
+familiar: familar, familliar
+fascinating: facinating, fasinating
+February: Febuary, Feburary
+finally: finaly, finnally
+fluorescent: florescent, flourescent
+foreign: foriegn, forein
+forty: fourty
+forward: foward, forwrad
+friend: freind, frend
+friends: freinds, frends
+fulfill: fulfil, fullfill
+gauge: guage
+generally: generaly, genrally
+glamorous: glamourous
+grammar: grammer, gramar
+grateful: greatful, gratefull
+guarantee: garantee, guarentee, guarante
+guidance: guidence
+happened: happend, hapened
+harass: harrass
+height: heighth, hieght
+hierarchy: heirarchy
+humorous: humourous
+hygiene: hygeine, hygene
+hypocrisy: hypocracy
+ignorance: ignorence
+immediately: immediatly, imediately, immediatley
+incidentally: incidently
+independent: independant, indepedent
+indispensable: indispensible
+intelligence: inteligence, intelligance
+interesting: intresting, interseting, intersting
+interrupt: interupt
+irrelevant: irrelevent, irelevant
+island: iland
+jewelry: jewelery
+judgment: judgement
+knowledge: knowlege, knowledg
+language: langauge, languege, lanugage
+leisure: liesure, leasure
+length: lenght, legnth
+liaison: liason
+library: libary, librery
+license: licence, lisence
+lightning: lightening
+maintenance: maintainance, maintenence
+maneuver: manuever
+marriage: marrige, mariage
+medieval: medevil, mideval
+millennium: millenium, milennium
+miniature: miniture
+mischievous: mischievious, mischevious
+misspell: mispell, misspel
+necessary: neccessary, necessery, neccesary, necesary
+neighbor: nieghbor, neigbor
+noticeable: noticable
+occasion: occassion, ocasion
+occasionally: occasionaly, occassionally
+occurred: occured, ocurred
+occurrence: occurence, occurrance
+opportunity: oppurtunity, oportunity, opportunty
+original: orignal, origional
+parallel: paralell, parralel
+parliament: parliment
+particular: particuler, perticular
+pastime: pasttime
+perseverance: perseverence
+personnel: personel
+persuade: pursuade, persaude
+piece: peice
+playwright: playwrite
+possession: posession, possesion
+possible: possable, posible
+potato: potatoe
+precede: preceed
+preferred: prefered
+prejudice: predjudice
+presence: presense
+privilege: priviledge, privelege
+probably: probly
+professor: proffesor, profesor
+promise: promiss
+pronunciation: pronounciation
+publicly: publically
+quarantine: quarentine
+questionnaire: questionaire
+receipt: reciept, receit
+receive: recieve, receve, recive
+recommend: recomend, reccomend, reccommend
+reference: referance, refrence
+referred: refered
+relevant: relevent, relavent
+religious: religous
+repetition: repitition
+restaurant: restaraunt, resturant, restaurnt
+rhythm: rythm, rhythym
+ridiculous: rediculous, ridiculus
+sacrilegious: sacreligious
+schedule: schedual, shedule, scedule
+secretary: secratary, secretery
+seize: sieze
+separate: seperate, separete, seprate
+sergeant: sargent
+siege: seige
+similar: similiar, simular, similer
+sincerely: sincerly, sincerley
+speech: speach
+strength: strenght, strengh
+success: sucess, succes
+successful: succesful, successfull, sucessful
+supersede: supercede
+surprise: suprise, surprize, surpise
+temperature: temprature, temperture
+tendency: tendancy
+therefore: therefor, threfore
+threshold: threshhold
+tomorrow: tommorow, tommorrow, tomorow
+tongue: tounge
+truly: truely
+twelfth: twelth
+tyranny: tyrany
+until: untill, unitl
+unusual: unusal, unusuall
+vacuum: vacume, vaccum
+vegetable: vegtable, vegatable
+vehicle: vehical, vehicel
+vicious: viscious
+weather: wether
+weird: wierd, weid
+whether: wether, wheather
+which: wich
+writing: writting, wrting
+written: writen, wirtten
+
+# --- Common grammar-ish slips (homophones) ---
+its: it's
+it's: its
+your: you're
+you're: your
+there: their
+their: there
+they're: their, there
+then: than
+than: then
+affect: effect
+effect: affect
+lose: loose
+loose: lose
+to: too
+too: to
+were: where
+where: were
+accept: except
+except: accept
+our: are
+are: our
+know: now
+hear: here
+here: hear
+right: write
+peace: piece
+weak: week
+week: weak
+whose: who's
+who's: whose
+passed: past
+past: passed
+quiet: quite
+quite: quiet
+advice: advise
+brake: break
+break: brake
+principal: principle
+principle: principal

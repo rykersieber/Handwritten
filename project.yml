@@ -1,0 +1,42 @@
+name: Handwritten
+options:
+  bundleIdPrefix: com.handwritten
+  deploymentTarget:
+    macOS: "14.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "1"
+targets:
+  Handwritten:
+    type: application
+    platform: macOS
+    sources:
+      - path: Handwritten
+    info:
+      path: Handwritten/Info.plist
+      properties:
+        CFBundleDisplayName: Handwritten
+        CFBundleName: Handwritten
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        LSUIElement: true
+        LSMinimumSystemVersion: $(MACOSX_DEPLOYMENT_TARGET)
+        LSApplicationCategoryType: public.app-category.productivity
+        NSHumanReadableCopyright: Open source. Use responsibly.
+    entitlements:
+      path: Handwritten/Handwritten.entitlements
+      properties:
+        com.apple.security.app-sandbox: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.handwritten.app
+        PRODUCT_NAME: Handwritten
+        CODE_SIGN_STYLE: Automatic
+        CODE_SIGN_IDENTITY: "Apple Development"
+        DEVELOPMENT_TEAM: QHL9R2LZP9
+        ENABLE_HARDENED_RUNTIME: YES
+        COMBINE_HIDPI_IMAGES: YES
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon

@@ -1,0 +1,26 @@
+name: Release
+# Run by hand from the Actions tab (or add `push: tags: ["v*"]` to build on every version tag).
+# GitHub's Mac runners may have an older Xcode than the one this was developed with.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install XcodeGen
+        run: brew install xcodegen
+      - name: Build
+        run: ./scripts/release.sh
+      - name: Upload to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ github.run_number }}-ci
+          prerelease: true
+          files: |
+            dist/*.dmg
+            dist/*.zip
